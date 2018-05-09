@@ -158,5 +158,165 @@ module.exports = [
         model: 'YWE962',
         price: '15000',
         count: 10
+    },
+    {
+        id: '21',
+        company: 'LG',
+        product: 'Television',
+        model: 'HQL234',
+        price: '12000',
+        count: 10
+    },
+    {
+        id: '22',
+        company: 'Samsung',
+        product: 'Television',
+        model: 'HJH354',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '23',
+        company: 'Sony',
+        product: 'Television',
+        model: 'KJH873',
+        price: '13000',
+        count: 10
+    },
+    {
+        id: '24',
+        company: 'Penasonic',
+        product: 'Television',
+        model: 'YGE237',
+        price: '14000',
+        count: 10
+    },
+    {
+        id: '25',
+        company: 'Micromax',
+        product: 'Television',
+        model: 'YWE962',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '26',
+        company: 'LG',
+        product: 'Phone',
+        model: 'HQL234',
+        price: '12000',
+        count: 10
+    },
+    {
+        id: '27',
+        company: 'Samsung',
+        product: 'Phone',
+        model: 'HJH354',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '28',
+        company: 'Sony',
+        product: 'Phone',
+        model: 'KJH873',
+        price: '13000',
+        count: 10
+    },
+    {
+        id: '29',
+        company: 'Penasonic',
+        product: 'Phone',
+        model: 'YGE237',
+        price: '14000',
+        count: 10
+    },
+    {
+        id: '30',
+        company: 'Micromax',
+        product: 'Phone',
+        model: 'YWE962',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '31',
+        company: 'LG',
+        product: 'Tablet',
+        model: 'HQL234',
+        price: '12000',
+        count: 10
+    },
+    {
+        id: '32',
+        company: 'Samsung',
+        product: 'Tablet',
+        model: 'HJH354',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '33',
+        company: 'Sony',
+        product: 'Tablet',
+        model: 'KJH873',
+        price: '13000',
+        count: 10
+    },
+    {
+        id: '34',
+        company: 'Penasonic',
+        product: 'Tablet',
+        model: 'YGE237',
+        price: '14000',
+        count: 10
+    },
+    {
+        id: '35',
+        company: 'Micromax',
+        product: 'Tablet',
+        model: 'YWE962',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '36',
+        company: 'LG',
+        product: 'Refrigerator',
+        model: 'HQL234',
+        price: '12000',
+        count: 10
+    },
+    {
+        id: '37',
+        company: 'Samsung',
+        product: 'Refrigerator',
+        model: 'HJH354',
+        price: '15000',
+        count: 10
+    },
+    {
+        id: '38',
+        company: 'Videocon',
+        product: 'Refrigerator',
+        model: 'KJH873',
+        price: '13000',
+        count: 10
+    },
+    {
+        id: '39',
+        company: 'Godrej',
+        product: 'Refrigerator',
+        model: 'YGE237',
+        price: '14000',
+        count: 10
+    },
+    {
+        id: '40',
+        company: 'Haier',
+        product: 'Refrigerator',
+        model: 'YWE962',
+        price: '15000',
+        count: 10
     }
 ];
